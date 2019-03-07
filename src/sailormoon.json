@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Sailor Mars",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920090/sm1.jpg",
+        "clicked": false
+    }, 
+    {
+        "id": 2,
+        "name": "Sailor Uranus",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920099/sm2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Sailor Mercury",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920143/sm3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Sailor Saturn",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920149/sm4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Sailor Starlights",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920153/sm5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Sailor Pluto",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920157/sm6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Sailor Neptune",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920165/sm7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Luna and Artemis",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920169/sm8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Sailor Moon",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920172/sm9.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Tuxedo Mask",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920177/sm10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Chibiusa",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920184/sm11.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Sailor Jupiter",
+        "image": "https://res.cloudinary.com/sailormoon-clicky-game/image/upload/v1551920191/sm12.jpg",
+        "clicked": false
+    }
+]
