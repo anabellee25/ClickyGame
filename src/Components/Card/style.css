@@ -1,15 +1,15 @@
-img {
+.image {
     max-height: 220px;
     margin: 10px;
     border: 4px solid rgb(255, 196, 0);
 }
 
-img:hover {
+.image:hover {
   box-shadow: 5px 5px 15px rgb(247, 211, 54);
   transform: scale(1.1);
   cursor: pointer;
 }
-img:active {
+.image:active {
     transform: translate(1px, 1px)
 }
 

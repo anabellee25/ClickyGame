@@ -69,8 +69,8 @@ resetGame = () => {
 };
 
 reShuffle = () => {
-  let shuffleCards = shuffleCards(cards);
-  this.setState({cards: shuffleCards});
+  let shuffleCardsAgain = shuffleCards(cards);
+  this.setState({cards: shuffleCardsAgain});
 }
 
 render() {

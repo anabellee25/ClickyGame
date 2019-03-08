@@ -32,3 +32,11 @@
   }
 }
 
+#cardContainer {
+  margin: auto;
+}
+
+body {
+  height: 100%;
+}
+

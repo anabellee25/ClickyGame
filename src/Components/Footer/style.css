@@ -1,0 +1,11 @@
+footer {
+    background-color: rgb(2, 10, 26) !important;
+    position: absolute;
+    /* bottom:0;left:0;right:0; */
+    /* height:50px; */
+    width:100%;
+    color: rgb(241, 241, 136);
+    text-align: center;
+    font-family: 'Srisakdi', cursive;
+    border-top: solid 2px white;
+}

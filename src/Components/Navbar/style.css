@@ -1,4 +1,44 @@
 .navbar-dark {
     background-color: rgb(2, 10, 26) !important;
     border-bottom: solid 2px white;
+    height: 100px;
 }
+
+#navtext {
+    font-family: 'Great Vibes', cursive;
+    font-size: 28px;
+    font-weight: 1000;
+    letter-spacing: 2px;
+    color: rgb(241, 241, 136);
+    /* text-shadow: -1px 0 white, 0 1px white; */
+    text-shadow: 1px 1px 2px rgb(7, 37, 136), 0 0 30px rgb(251, 255, 0), 0 0 5px rgb(229, 229, 231);
+}
+
+#animatedMessage {
+    color: rgb(241, 241, 136);
+    text-shadow: 1px 1px 2px rgb(10, 10, 10), 0 0 25px rgb(255, 230, 0), 0 0 5px rgb(229, 229, 231);
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Srisakdi', cursive;
+    position: relative;
+    left: 200px;
+}
+
+#scoreKeeper {
+    font-family: 'Srisakdi', cursive;
+    color: rgb(241, 241, 136);
+    font-weight: 800;
+    font-size: 28px;
+    position: relative;
+    left: 420px;
+}
+
+#logo {
+    max-height: 70px;
+    max-width: 110px;
+    position: relative;
+    left: -35px;
+    margin-top: 10px;
+}
+

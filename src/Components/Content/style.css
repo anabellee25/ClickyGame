@@ -1,5 +1,6 @@
 .content {
     /* background-image: url("../../images/background3.jpg");
     background-size: cover; */
-    background-color: rgb(12,27,60);
+    /* background-color: rgb(12,27,60); */
+    background-image: linear-gradient( rgb(13, 24, 48), rgb(13, 37, 73), rgb(161, 188, 211));
 }
