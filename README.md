@@ -14,6 +14,8 @@ Click the cards but make sure to not click the same one twice! Reach the highest
 Simply clone this repository to your machine. Run npm install in your terminal. 
 Once all dependences are loaded run npm start and enjoy!
 
-## 
+## [Play on Heroku!](https://clickysailormoon.herokuapp.com/)
 
 ![demo](./src/images/screenshot.png)
+
+### Developed by Ana Lee
